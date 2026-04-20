@@ -15,11 +15,13 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java, Python"];
+  linguagens = ["Java, Python, JavaScript"];
 }
 ```
 <br>
 
-<img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
+<img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img width="8%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcdG1on-ElwPn2Woy_GVZKQnBkcQveyX2Sg&s">
 
 <br>
