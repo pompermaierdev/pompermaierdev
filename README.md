@@ -20,6 +20,6 @@ class Skills extends Desenvolvedor {
 ```
 <br>
 
-<img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> <img width="8%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcdG1on-ElwPn2Woy_GVZKQnBkcQveyX2Sg&s"> <img width="8%" src= "https://cdn-icons-png.flaticon.com/512/5968/5968242.png"> <img width="15%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lfr8Fpqxwnd6ryKPR8Kq2zBwPunyOMP1Wg&s"> 
+<img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> <img width="8%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcdG1on-ElwPn2Woy_GVZKQnBkcQveyX2Sg&s"> <img width="8%" src= "https://cdn-icons-png.flaticon.com/512/5968/5968242.png"> <img width="13%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lfr8Fpqxwnd6ryKPR8Kq2zBwPunyOMP1Wg&s"> 
 
 <br>
